@@ -1,1 +1,45 @@
+instruções Autocel:
 
+1.0 abra a diretorio "extrator" e prossiga com a instalação do 7-zip.
+
+1.1. abra o 7-zip e navegue até a pasta do "Autocel"
+
+2.0. selecione os arquivos: "programa.zip.001", "programa.zip.002", "programa.zip.003" e "programa.zip.004"
+
+2.1. clique no botão extrair na parte superior do 7-zip
+
+3. execute "programa.exe"
+
+4.0. abra o ChatGPT no navegador padrão
+
+4.1. logue na sua conta (ou cadastre-se no site)
+
+4.2. deixe logado, mas feche a aba, deixando somente uma aba vazia no navegador padrão (isso ajuda o programa a executar de forma mais rapida.)
+
+5.0. clique em "selecionar arquivo Excel"  (caso já tenha um arquivo proprio para organizar, pule para o passo 8.0)
+
+5.1. selecione o arquivo: "Arquivo exemplo.xlsx" no diretorio principal (opcional)
+
+5.2. abra o arquivo: "prompt para exemplo.txt" (opcional)
+
+5.3. dentro do arquivo pressione "Ctrl + A", e depois "Ctrl + C" (opcional)
+
+5.4. não mexa no mouse e no teclado, até o chat gpt terminar de organizar a planilha (opcional)
+
+5.5. copie e cole a planilha organizada (os caracteres !!.!!  servem para na hora de colar, não desformatar a organização. (eles serão removidos automaticamente no salvamento do arquivo)) (opcional)
+
+5.6. selecione o nome e a pasta de salvamento do arquivo organizado. (opcional)
+
+5.7. veja a magica que aconteceu (:  (opcional)
+
+6.0. clique em "selecionar arquivo Excel" e selecione o arquivo que deseja organizar.
+
+6.1. na tela que abre, digite a forma que deseja que o arquivo seje organizado. (quanto mais especifico, mais preciso)
+
+6.2. não mexa no mouse e no teclado, até o chat gpt terminar de organizar a planilha
+
+6.3. copie e cole a planilha organizada (os caracteres !!.!!  servem para na hora de colar, não desformatar a organização. (eles serão removidos automaticamente no salvamento do arquivo))
+
+6.4. selecione o nome e a pasta de salvamento do arquivo organizado.
+
+8.5. veja a magica que aconteceu  (:
