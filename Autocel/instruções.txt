@@ -16,7 +16,7 @@ instruções Autocel:
 
 4.2. deixe logado, mas feche a aba, deixando somente uma aba vazia no navegador padrão (isso ajuda o programa a executar de forma mais rapida.)
 
-5.0. clique em "selecionar arquivo Excel"  (caso já tenha um arquivo proprio para organizar, pule para o passo 8.0)
+5.0. clique em "selecionar arquivo Excel"  (caso já tenha um arquivo proprio para organizar, pule para o passo 6.0)
 
 5.1. selecione o arquivo: "Arquivo exemplo.xlsx" no diretorio principal (opcional)
 
@@ -24,22 +24,26 @@ instruções Autocel:
 
 5.3. dentro do arquivo pressione "Ctrl + A", e depois "Ctrl + C" (opcional)
 
-5.4. não mexa no mouse e no teclado, até o chat gpt terminar de organizar a planilha (opcional)
+5.4. clique no botão "enviar para o ChatGPT" e cole o texto no prompt. (opcional)
 
-5.5. copie e cole a planilha organizada (os caracteres !!.!!  servem para na hora de colar, não desformatar a organização. (eles serão removidos automaticamente no salvamento do arquivo)) (opcional)
+5.5. não mexa no mouse e no teclado, até o chat gpt terminar de organizar a planilha (opcional)
 
-5.6. selecione o nome e a pasta de salvamento do arquivo organizado. (opcional)
+5.6. copie e cole a planilha organizada (os caracteres !!.!!  servem para na hora de colar, não desformatar a organização. (eles serão removidos automaticamente no salvamento do arquivo)) (opcional)
 
-5.7. veja a magica que aconteceu (:  (opcional)
+5.7. selecione o nome e a pasta de salvamento do arquivo organizado. (opcional)
+
+5.8. veja a magica que aconteceu (:  (opcional)
 
 6.0. clique em "selecionar arquivo Excel" e selecione o arquivo que deseja organizar.
 
 6.1. na tela que abre, digite a forma que deseja que o arquivo seje organizado. (quanto mais especifico, mais preciso)
 
-6.2. não mexa no mouse e no teclado, até o chat gpt terminar de organizar a planilha
+6.2. clique no botão "enviar para o ChatGPT" e cole o texto no prompt.
 
-6.3. copie e cole a planilha organizada (os caracteres !!.!!  servem para na hora de colar, não desformatar a organização. (eles serão removidos automaticamente no salvamento do arquivo))
+6.3. não mexa no mouse e no teclado, até o chat gpt terminar de organizar a planilha
 
-6.4. selecione o nome e a pasta de salvamento do arquivo organizado.
+6.4. copie e cole a planilha organizada (os caracteres !!.!!  servem para na hora de colar, não desformatar a organização. (eles serão removidos automaticamente no salvamento do arquivo))
 
-8.5. veja a magica que aconteceu  (:
+6.5. selecione o nome e a pasta de salvamento do arquivo organizado.
+
+8.6. veja a magica que aconteceu (:
