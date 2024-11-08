@@ -1,0 +1,9 @@
+Organize as informações em categorias e crie as seguintes colunas:
+
+- Animais na primeira coluna
+- Meios de Transporte na segunda coluna
+- Móveis/Mobília na terceira coluna
+- Letras na quarta coluna em ordem alfabética crescente (ocupando as linhas abaixo para letras "maiores")
+- Números na quinta coluna em ordem crescente (ocupando as linhas abaixo para números "maiores")
+
+Coloque as informações correspondentes organizadas abaixo de cada categoria.
