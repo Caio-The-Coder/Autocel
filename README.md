@@ -1,6 +1,8 @@
 # Autocel
-Autocel, é um programa escrito em python, que organiza planilhas excel ultilizando IA.
+## Autocel, é um programa escrito em python, que organiza planilhas excel ultilizando IA.
 
-para aprender como usar, abra o arquivo "instruções.txt" no diretorio principal
+## para aprender como usar, abra o arquivo "instruções.txt" no diretorio principal
 
-obs: ainda está em desenvolvimento, apesar de ser parcialmente funcional
+## https://github.com/sponsors/Caio-The-Coder se possivel, apoie este projeto com uma doação de qualquer valor :)
+
+### obs: ainda está em desenvolvimento, apesar de ser parcialmente funcional
