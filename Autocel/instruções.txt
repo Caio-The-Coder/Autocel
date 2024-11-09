@@ -18,9 +18,9 @@ instruções Autocel:
 
 5.0. clique em "selecionar arquivo Excel"  (caso já tenha um arquivo proprio para organizar, pule para o passo 6.0)
 
-5.1. selecione o arquivo: "Arquivo exemplo.xlsx" no diretorio principal (opcional)
+5.1. selecione o arquivo: "Arquivo exemplo.xlsx" no diretorio: "Exemplos" (opcional)
 
-5.2. abra o arquivo: "prompt para exemplo.txt" (opcional)
+5.2. abra o arquivo: "prompt para exemplo.txt" no diretorio: "Exemplos" (opcional)
 
 5.3. dentro do arquivo pressione "Ctrl + A", e depois "Ctrl + C" (opcional)
 
