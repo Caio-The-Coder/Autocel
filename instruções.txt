@@ -4,11 +4,11 @@ instruções Autocel:
 
 1.1. abra o 7-zip e navegue até a pasta do "Autocel"
 
-2.0. selecione os arquivos: "programa.zip.001", "programa.zip.002", "programa.zip.003" e "programa.zip.004"
+2.0. selecione os arquivos: "programa.zip.001", "programa.zip.002" e "programa.zip.003"
 
 2.1. clique no botão extrair na parte superior do 7-zip
 
-3. execute "programa.exe"
+3.0. execute "programa.exe"
 
 4.0. abra o ChatGPT no navegador padrão
 
