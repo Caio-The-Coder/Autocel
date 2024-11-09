@@ -1,1 +1,7 @@
+este é o codigo-fonte do programa, dou permissão para qualquer um alterar/modificar o codigo, mas se voce só quiser executar ele diretamente no pycharm ou outra IDE de seu gosto, fique a vontade!!! 
+mas para isso, instale as bibliotecas necessarias para o codigo funcionar, que são: "pyautogui", "pandas" e "openpyxl"
+
+1. abra o terminal do seu IDE, e cole o comando: "pip install pandas openpyxl pyautogui" sem as aspas
+
+2. execute o codigo normalmente
 
