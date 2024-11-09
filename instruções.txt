@@ -1,4 +1,6 @@
-instruções Autocel:
+obs. as instruções de organizção e a planilha inteira somados não podem passar de 8042 caractres. (já estou trabalhando em uma versão com suporte a caracteres ilimitados do Autocel, que se chamará "Autocel limitless")
+
+instruções de uso do Autocel:
 
 1.0 abra a diretorio "extrator" e prossiga com a instalação do 7-zip.
 
